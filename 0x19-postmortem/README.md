@@ -3,6 +3,7 @@
 
 https://docs.google.com/document/d/10zfrSbjjkNtEqlF29CdPUF4i_31iFBEO/edit?rtpof=true
 
+
 Problem: Loss of important data on my computer
 
 Background: I use my personal computer to store important work-related documents. Recently, I lost access to this data due to a hard drive error.
