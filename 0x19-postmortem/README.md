@@ -1,6 +1,8 @@
 0x19. Postmortem
 ![image](https://github.com/Credusco/alx-system_engineering-devops/assets/111096702/bbe512b6-2173-45a4-9106-869544c433eb)
 
+https://docs.google.com/document/d/10zfrSbjjkNtEqlF29CdPUF4i_31iFBEO/edit?rtpof=true
+
 Problem: Loss of important data on my computer
 
 Background: I use my personal computer to store important work-related documents. Recently, I lost access to this data due to a hard drive error.
